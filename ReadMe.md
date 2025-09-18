@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Vipul   <br>CSE student<br>- Code, coffee, and late-night DSA grind 🌙  <br>- Building cool projects & breaking them (to learn!)  <br>  
+Hey, I’m Vipul   <br>CSE student<br>- <br>- Building cool projects & breaking them (to learn!)  <br>  
 
 
 ## 🌐 Socials:
