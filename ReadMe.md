@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Vipul   <br>CSE student<br>- Building cool projects & breaking them (to learn!)  <br>  
+Hey, I’m Vipul  <br>- Building cool projects & breaking them (to learn!)  <br>  
 
 
 ## 🌐 Socials:
